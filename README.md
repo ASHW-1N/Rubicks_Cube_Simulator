@@ -8,7 +8,7 @@ A sophisticated 3D interactive Rubik's cube that can solve itself using advanced
 
 **[🔗 Watch Full Demo Video](https://github.com/ASHW-1N/Rubicks_Cube_Simulator/blob/main/Untitled%20design%20(2).gif)**
 
-*Replace `YOUR_VIDEO_LINK_HERE` with your actual demo video link*
+*https://github.com/ASHW-1N/Rubicks_Cube_Simulator/blob/main/Screenshots/Untitled%20design%20(2).gif*
 
 ## ✨ Features
 
