@@ -2,7 +2,7 @@
 
 A sophisticated 3D interactive Rubik's cube that can solve itself using advanced Data Structures and Algorithms. Built with VPython for stunning 3D visualization and powered by the Kociemba two-phase algorithm for optimal solving.
 
-![Rubik's Cube Demo](demo-screenshot.png)
+![Rubik's Cube Demo](https://github.com/ASHW-1N/Rubicks_Cube_Simulator/blob/main/Screenshots/Untitled%20design.gif)
 
 ## 🎥 Demo Video
 
