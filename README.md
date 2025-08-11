@@ -328,10 +328,9 @@ SOFTWARE.
 
 ## 👨‍💻 Author
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+**ASHWIN KUMAR**
+- Email: ashwinqs2020@gmail.com
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/ashwin-kumar-9b09a9214)
 
 ## 🙏 Acknowledgments
 
