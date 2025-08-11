@@ -330,7 +330,7 @@ SOFTWARE.
 
 **ASHWIN KUMAR**
 - Email: ashwinqs2020@gmail.com
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/ashwin-kumar-9b09a9214)
+- LinkedIn:(www.linkedin.com/in/ashwin-kumar-9b09a9214)
 
 ## 🙏 Acknowledgments
 
